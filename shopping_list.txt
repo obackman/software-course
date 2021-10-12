@@ -4,4 +4,4 @@ cheese
 ham
 vegetables
 fruit
-yoghurt
+corn flakes
