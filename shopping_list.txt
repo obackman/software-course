@@ -4,3 +4,4 @@ cheese
 ham
 vegetables
 fruit
+yoghurt
